@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> // added comment - version 2
+// Trivial change for resubmission
 using namespace std;
 // Added comment to trigger new commit
 
